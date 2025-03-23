@@ -1,7 +1,7 @@
 # React uncontrolled form
 
-[ ] - Create the form engine
-[ ] - Create the React integration
+- [ ] Create the form engine
+- [ ] Create the React integration
 
 ### Scenarios:
 
